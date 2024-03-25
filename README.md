@@ -53,13 +53,19 @@ The Movie Search App is deployed and accessible via this [link](https://660079d9
 4. Enjoy exploring and discovering new movies!
 
 ## Screenshots!
-![Screenshot 2024-03-25 004545](https://github.com/harshit0075/movie-search/assets/112869167/36ff3118-64bd-4bd6-9e68-0d50832d1c34)
+**HomePage**
+![Screenshot 2024-03-26 001006](https://github.com/harshit0075/movie-search/assets/112869167/54bf60d0-e17f-46de-8434-481bdd105bec)
 
-![Screenshot 2024-03-25 005049](https://github.com/harshit0075/movie-search/assets/112869167/20176bce-a25f-4f17-bc06-8ba8c61ff2f0)
+**Details**
+![Screenshot 2024-03-26 001024](https://github.com/harshit0075/movie-search/assets/112869167/2cf39ec7-c698-44f3-b4bc-b04870ec34d1)
 
-![Screenshot 2024-03-25 004947](https://github.com/harshit0075/movie-search/assets/112869167/e4ea4867-c05c-4bbb-988a-566d0798c5ed)
+**Searchs**
+![Screenshot 2024-03-26 001104](https://github.com/harshit0075/movie-search/assets/112869167/ba0191bc-89bf-4559-afb5-97b97e20c553)
+![Screenshot 2024-03-26 001145](https://github.com/harshit0075/movie-search/assets/112869167/9a8ea87a-fadd-4e99-963d-a6436bf4f9f2)
 
-![Screenshot 2024-03-25 004647](https://github.com/harshit0075/movie-search/assets/112869167/a0e2d3ae-8178-40a1-bd9a-892bbf9d3e02)
+**Responsivness**
+
+![Screenshot 2024-03-26 001230](https://github.com/harshit0075/movie-search/assets/112869167/4dd347a6-2c0e-417a-b3ae-9d403c764d86)
 
 ## Contributing
 
