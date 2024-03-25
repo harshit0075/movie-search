@@ -1,5 +1,5 @@
 .main-wrapper{
-  background-color:aqua;
+  background-color:rgb(26, 45, 45);
   /* border: 5px solid red; */
 }
 
@@ -17,5 +17,5 @@ font-size: 40px;
 
 .result:hover {
 cursor: pointer;
-box-shadow: 0px 0px 30px black;
+box-shadow: 0px 0px 40px rgb(225, 219, 219);
 }
