@@ -65,6 +65,4 @@ The Movie Search App is deployed and accessible via this [link](https://660079d9
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
