@@ -43,7 +43,7 @@ Welcome to the Movie Search App! This web application allows users to search for
 
 ## Deployment
 
-The Movie Search App is deployed and accessible via this [link](https://660079d9d6876b178a022bb8--bejewelled-gnome-6ebf40.netlify.app/).
+The Movie Search App is deployed and accessible via this [link](https://6601c4d2829f002c9fc64d56--dainty-kataifi-2e1d20.netlify.app/).
 
 ## Usage
 
